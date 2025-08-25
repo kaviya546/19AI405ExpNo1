@@ -23,9 +23,8 @@
     <tr>
     <td><strong>Medicine prescribing agen<h4>Developed By: KAVIYA SNEKA M</h4>
 <h4>Register Number: 212223040091</h4>
-<h3>Program</h3>
-
-```python
+## Program :
+```
 import random
 
 class VacuumCleanerAgent:
