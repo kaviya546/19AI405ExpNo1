@@ -21,8 +21,8 @@
     <td><strong>Sensors</strong></td>
   </tr>
     <tr>
-    <td><strong>Medicine prescribing agen<h4>Developed By: Roopak C S</h4>
-<h4>Register Number: 212223220088</h4>
+    <td><strong>Medicine prescribing agen<h4>Developed By: KAVIYA SNEKA M</h4>
+<h4>Register Number: 212223040091</h4>
 <h3>Program</h3>
 
 ```python
